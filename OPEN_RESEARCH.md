@@ -25,3 +25,20 @@ an underlying source of record.
 ## 5. Independent implementation and external review criteria
 **Question:** What evidence would make an implementation or external review meaningful without implying compatibility, certification, or adoption?
 **Required evidence:** Reproducible implementation notes, review protocol, independent findings, known limitations, and explicit versioning gates.
+
+## 6. Substrate-independent reference design
+**Question:** Can a small canonical event ledger preserve epistemic-memory
+boundaries independently of Logseq, Markdown, SQLite, and a single product?
+**Required evidence:** A reviewed threat model; closed schema and
+canonicalisation profile; synthetic positive and negative vectors; deterministic
+replay rules; a minimal independent implementation; and separate adapter or
+projection evidence without changing source authority.
+
+## 7. Token-efficient human and model projections
+**Question:** Can an optional text projection reduce model-context tokens while
+preserving exact canonical-record semantics and safe failure behaviour?
+**Required evidence:** A pinned format profile; synthetic corpus; named
+tokenizers and encoder settings; JSON/TOON round-trip and negative vectors;
+canonical-digest equivalence checks; measured token and byte counts; and an
+independent implementation review. No universal saving or compatibility claim
+follows from a format conversion alone.

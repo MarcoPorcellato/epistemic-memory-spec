@@ -20,10 +20,12 @@ status, governance, or versioned decisions.
 2. [CHARTER.md](../CHARTER.md) for scope and research questions.
 3. [VERSIONING.md](../VERSIONING.md) for advancement rules.
 4. [the research draft](../spec/epistemic-memory-research-draft-v0.md).
-5. [PROVENANCE.md](../PROVENANCE.md) and
+5. [Decision 0002](decisions/0002-substrate-independent-reference-design.md)
+   for the proposed independent reference-design boundary.
+6. [PROVENANCE.md](../PROVENANCE.md) and
    [docs/evidence-and-review.md](evidence-and-review.md) for sources and
    evidence review.
-6. [OPEN_RESEARCH.md](../OPEN_RESEARCH.md) and
+7. [OPEN_RESEARCH.md](../OPEN_RESEARCH.md) and
    [CONTRIBUTING.md](../CONTRIBUTING.md) for participation.
 
 ## Relationship boundaries
