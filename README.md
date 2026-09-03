@@ -49,6 +49,8 @@ The working hypothesis is:
   concepts and non-goals.
 - [Decision 0002](docs/decisions/0002-substrate-independent-reference-design.md)
   — proposed substrate-independent reference design.
+- [Decision 0003](docs/decisions/0003-pluggable-assessment-and-revision-research.md)
+  — proposed policy-plug-in boundary for assessment and revision research.
 - [Provenance](PROVENANCE.md) — public antecedents and exact source anchors.
 - [Citation metadata](CITATION.cff) — how to cite this research record.
 - [Governance](GOVERNANCE.md) — maintainer model and decision boundaries.
