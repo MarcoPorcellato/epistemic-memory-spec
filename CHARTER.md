@@ -52,3 +52,6 @@ This repository welcomes critique, prior art, implementation feedback, and
 counterexamples. It does not speak for any external project or organisation.
 Any future collaboration, governance group, or standards process requires a
 separate public decision.
+
+Licensing grants reuse rights, not standards authority. This repository has no
+consensus process, certification programme, or compatibility badge.

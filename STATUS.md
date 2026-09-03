@@ -4,6 +4,10 @@
 
 **Research Draft — pre-standard.**
 
+The repository grants reuse under [LICENSE.md](LICENSE.md), but a license
+grants reuse, not standards authority. No consensus, voting, certification,
+or compatibility programme exists.
+
 This repository is a dated public record of an investigation. It contains no
 released protocol, stable schema, conformance suite, reference implementation,
 or governance process for a standard.

@@ -48,6 +48,9 @@ The working hypothesis is:
   concepts and non-goals.
 - [Provenance](PROVENANCE.md) — public antecedents and exact source anchors.
 - [Citation metadata](CITATION.cff) — how to cite this research record.
+- [Governance](GOVERNANCE.md) — maintainer model and decision boundaries.
+- [Versioning](VERSIONING.md) — draft and research maturity terms.
+- [Open research](OPEN_RESEARCH.md) — agenda and evidence gates.
 
 ## Relationship to Matryca projects
 
@@ -65,9 +68,6 @@ GitHub issue for a concrete concern, counterexample, or prior-art reference.
 Discussion is welcome; acceptance of a suggestion does not by itself create a
 normative specification or a conformance obligation.
 
-## License status
+## License
 
-No license grant has been selected for this early research record. Public
-visibility does not grant permission to reuse the material beyond rights that
-applicable law or the GitHub Terms of Service provide. A future licensing
-decision will be explicit and versioned.
+Reuse terms and file allocations are defined in [LICENSE.md](LICENSE.md).
