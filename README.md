@@ -47,6 +47,8 @@ The working hypothesis is:
 - [Charter](CHARTER.md) — scope, governance, and advancement criteria.
 - [Research Draft v0](spec/epistemic-memory-research-draft-v0.md) — proposed
   concepts and non-goals.
+- [Decision 0002](docs/decisions/0002-substrate-independent-reference-design.md)
+  — proposed substrate-independent reference design.
 - [Provenance](PROVENANCE.md) — public antecedents and exact source anchors.
 - [Citation metadata](CITATION.cff) — how to cite this research record.
 - [Governance](GOVERNANCE.md) — maintainer model and decision boundaries.
