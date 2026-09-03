@@ -6,18 +6,17 @@
 
 ## Authority and reading order
 
-1. [Status](STATUS.md) and [Charter](CHARTER.md) define current boundaries.
-2. [Versioning](VERSIONING.md) defines maturity terms.
-3. [Research Draft v0](spec/epistemic-memory-research-draft-v0.md) defines
+1. [Status](https://github.com/MarcoPorcellato/epistemic-memory-spec/blob/main/STATUS.md) and [Charter](https://github.com/MarcoPorcellato/epistemic-memory-spec/blob/main/CHARTER.md) define current boundaries.
+2. [Versioning](https://github.com/MarcoPorcellato/epistemic-memory-spec/blob/main/VERSIONING.md) defines maturity terms.
+3. [Research Draft v0](https://github.com/MarcoPorcellato/epistemic-memory-spec/blob/main/spec/epistemic-memory-research-draft-v0.md) defines
    proposed concepts and non-goals.
-4. [Evidence and Review](docs/evidence-and-review.md) defines evidence classes
+4. [Evidence and Review](https://github.com/MarcoPorcellato/epistemic-memory-spec/blob/main/docs/evidence-and-review.md) defines evidence classes
    and review boundaries.
 
 ## Participation
 
-Read [Start Here](START_HERE.md), [Contributing](CONTRIBUTING.md), and
-[Open Research](OPEN_RESEARCH.md). Use GitHub issues for evidence-backed work
-and Discussions for exploratory dialogue.
+Read [Start Here](https://github.com/MarcoPorcellato/epistemic-memory-spec/blob/main/START_HERE.md), [Contributing](https://github.com/MarcoPorcellato/epistemic-memory-spec/blob/main/CONTRIBUTING.md), and
+[Open Research](https://github.com/MarcoPorcellato/epistemic-memory-spec/blob/main/OPEN_RESEARCH.md). Use [GitHub issues](https://github.com/MarcoPorcellato/epistemic-memory-spec/issues/new/choose) for evidence-backed work and [Discussions](https://github.com/MarcoPorcellato/epistemic-memory-spec/discussions) for exploratory dialogue.
 
 ## Safety boundary
 
