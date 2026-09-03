@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this research record, please cite it using the metadata below."
+title: "Epistemic Memory Spec"
+authors:
+  - family-names: "Porcellato"
+    given-names: "Marco"
+type: "research"
+abstract: "A public research record for provenance-bound, human-governed epistemic memory."
