@@ -68,6 +68,25 @@ cannot be treated as an authority for a source write.
 - implementation-specific storage formats; and
 - standards, compatibility, or certification claims.
 
+## Future assessment-policy boundary
+
+The qualitative v0 assessment boundary is intentionally not a universal
+reasoning model. A future research policy may explore a different uncertainty,
+revision, dependency, reliability, or temporal representation only when it
+declares a stable policy identity and revision, accepted event inputs, output
+semantics, failure behaviour, synthetic vectors, and deterministic replay
+requirements.
+
+Status remains procedural. Assessment remains a policy result. Uncertainty,
+source reliability, actor scope, source revision, observation time, recorded
+time, assessment time, and valid time remain distinct concepts. A future policy
+must not use an undeclared score, passive behaviour, retrieval rank, model
+self-report, or filesystem timestamp as a substitute for those records.
+
+Any such work is governed by [Decision 0003](../docs/decisions/0003-pluggable-assessment-and-revision-research.md).
+It remains research until its version-specific evidence and review gates are
+met.
+
 ## Evidence needed for a future specification
 
 Before this draft can advance, future work must publish closed schemas,

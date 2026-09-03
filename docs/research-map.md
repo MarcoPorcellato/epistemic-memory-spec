@@ -22,10 +22,12 @@ status, governance, or versioned decisions.
 4. [the research draft](../spec/epistemic-memory-research-draft-v0.md).
 5. [Decision 0002](decisions/0002-substrate-independent-reference-design.md)
    for the proposed independent reference-design boundary.
-6. [PROVENANCE.md](../PROVENANCE.md) and
+6. [Decision 0003](decisions/0003-pluggable-assessment-and-revision-research.md)
+   for the proposed assessment-policy and revision-research boundary.
+7. [PROVENANCE.md](../PROVENANCE.md) and
    [docs/evidence-and-review.md](evidence-and-review.md) for sources and
    evidence review.
-7. [OPEN_RESEARCH.md](../OPEN_RESEARCH.md) and
+8. [OPEN_RESEARCH.md](../OPEN_RESEARCH.md) and
    [CONTRIBUTING.md](../CONTRIBUTING.md) for participation.
 
 ## Relationship boundaries
