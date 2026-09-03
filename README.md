@@ -52,6 +52,15 @@ The working hypothesis is:
 - [Versioning](VERSIONING.md) — draft and research maturity terms.
 - [Open research](OPEN_RESEARCH.md) — agenda and evidence gates.
 
+## Participate
+
+Read [CONTRIBUTING.md](CONTRIBUTING.md) and [OPEN_RESEARCH.md](OPEN_RESEARCH.md).
+Use the [issue chooser](https://github.com/MarcoPorcellato/epistemic-memory-spec/issues/new/choose)
+for evidence-backed work. Use [Discussions](https://github.com/MarcoPorcellato/epistemic-memory-spec/discussions)
+for exploratory dialogue. Issues are for concrete evidence, counterexamples,
+prior art, and implementation feedback; Discussions are for open-ended
+exploration.
+
 ## Relationship to Matryca projects
 
 This research was seeded by design work in
