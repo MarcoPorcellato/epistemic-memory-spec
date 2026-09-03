@@ -1,6 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this research record, please cite it using the metadata below."
 title: "Epistemic Memory Spec"
+version: "0.0.0-research"
+repository-code: "https://github.com/MarcoPorcellato/epistemic-memory-spec"
 authors:
   - family-names: "Porcellato"
     given-names: "Marco"
