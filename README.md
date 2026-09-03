@@ -32,13 +32,14 @@ The working hypothesis is:
   verified fact merely because it exists.
 - **Policy is explicit.** Assessment semantics, revisions, and limits must be
   named and testable.
-- **Projections are replayable.** The same ordered inputs and policy revision
-  must reproduce the same derived result.
-- **Human governance is preserved.** Derived state cannot become a canonical
-  write path without a separate, evidence-backed design.
-- **Portable contracts protect privacy.** Public records use opaque references
-  and digests; they do not require raw source content, prompts, paths, or
-  credentials.
+- **Projections are designed to be replayable.** A future specification must
+  define ordered inputs, policy revisions, fixtures, and tests that reproduce
+  a derived result.
+- **Human governance is a design requirement.** Derived state cannot become a
+  canonical write path without a separate, evidence-backed design.
+- **Portable contracts are intended to reduce exposure.** Public records use
+  opaque references and digests; they do not require raw source content,
+  prompts, paths, or credentials.
 
 ## Repository contents
 
@@ -51,6 +52,16 @@ The working hypothesis is:
 - [Governance](GOVERNANCE.md) — maintainer model and decision boundaries.
 - [Versioning](VERSIONING.md) — draft and research maturity terms.
 - [Open research](OPEN_RESEARCH.md) — agenda and evidence gates.
+
+## Start here
+
+- [Start Here](START_HERE.md) — choose a researcher, implementer, or reviewer path.
+- [Research map](docs/research-map.md) — document authority and reading order.
+- [Evidence and review](docs/evidence-and-review.md) — evidence ladder and review boundary.
+- [Latest research snapshot](https://github.com/MarcoPorcellato/epistemic-memory-spec/releases/latest)
+- [Discussion #7](https://github.com/MarcoPorcellato/epistemic-memory-spec/discussions/7)
+- [Issue chooser](https://github.com/MarcoPorcellato/epistemic-memory-spec/issues/new/choose)
+- [Citation metadata](CITATION.cff) · [License map](LICENSE.md)
 
 ## Participate
 
