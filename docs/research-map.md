@@ -24,10 +24,13 @@ status, governance, or versioned decisions.
    for the proposed independent reference-design boundary.
 6. [Decision 0003](decisions/0003-pluggable-assessment-and-revision-research.md)
    for the proposed assessment-policy and revision-research boundary.
-7. [PROVENANCE.md](../PROVENANCE.md) and
+7. [Decision 0004](decisions/0004-incubating-strategic-agent-learning.md)
+   and [Accelerated Agent Learning](../research/accelerated-agent-learning.md)
+   for the incubated strategic-learning research boundary.
+8. [PROVENANCE.md](../PROVENANCE.md) and
    [docs/evidence-and-review.md](evidence-and-review.md) for sources and
    evidence review.
-8. [OPEN_RESEARCH.md](../OPEN_RESEARCH.md) and
+9. [OPEN_RESEARCH.md](../OPEN_RESEARCH.md) and
    [CONTRIBUTING.md](../CONTRIBUTING.md) for participation.
 
 ## Relationship boundaries

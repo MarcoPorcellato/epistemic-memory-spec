@@ -1,6 +1,6 @@
 # Open research agenda
 
-This agenda records thirteen research tracks for a research draft.
+This agenda records fourteen research tracks for a research draft.
 
 Completion of any track adds research evidence only. It does not create a
 standard, protocol, compatibility obligation, certification, or authority over
@@ -94,3 +94,18 @@ decision; identity and authority assumptions; disclosure and data-minimisation
 rules; synthetic conflict and abuse cases; versioned interoperability vectors;
 and independent evaluation. A single-user ledger is not evidence for this
 track.
+
+## 14. Explicit strategic learning incubation
+**Question:** Can explicitly represented and experimentally evaluated candidate
+strategic operators improve one or more declared learning-efficiency,
+reliability, transfer, retention, or outcome metrics against appropriate
+baselines and controls without expanding the epistemic core into a learning
+engine?
+**Required evidence:** A terminology and prior-art matrix; preregistered task
+families, budgets, metrics, baselines, controls, and failure states; synthetic
+or otherwise reviewable tasks; separate discovery, selection, evaluation, and
+revision evidence; source-exposure and held-out-transfer boundaries where
+applicable; negative and non-interpretable results; and independent review or
+replication. Experimental outcomes must remain distinct from policy-derived
+assessments. This track is governed by [Decision 0004](docs/decisions/0004-incubating-strategic-agent-learning.md) and does not authorise a schema,
+runtime, Plumber change, or external standard claim.

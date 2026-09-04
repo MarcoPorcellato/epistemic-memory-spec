@@ -51,11 +51,15 @@ The working hypothesis is:
   — proposed substrate-independent reference design.
 - [Decision 0003](docs/decisions/0003-pluggable-assessment-and-revision-research.md)
   — proposed policy-plug-in boundary for assessment and revision research.
+- [Decision 0004](docs/decisions/0004-incubating-strategic-agent-learning.md)
+  — incubated boundary for research on explicit strategic learning.
 - [Provenance](PROVENANCE.md) — public antecedents and exact source anchors.
 - [Citation metadata](CITATION.cff) — how to cite this research record.
 - [Governance](GOVERNANCE.md) — maintainer model and decision boundaries.
 - [Versioning](VERSIONING.md) — draft and research maturity terms.
 - [Open research](OPEN_RESEARCH.md) — agenda and evidence gates.
+- [Accelerated Agent Learning](research/accelerated-agent-learning.md) —
+  non-normative strategic-learning research track.
 
 ## Start here
 
