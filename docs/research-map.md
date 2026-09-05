@@ -27,10 +27,14 @@ status, governance, or versioned decisions.
 7. [Decision 0004](decisions/0004-incubating-strategic-agent-learning.md)
    and [Accelerated Agent Learning](../research/accelerated-agent-learning.md)
    for the incubated strategic-learning research boundary.
-8. [PROVENANCE.md](../PROVENANCE.md) and
+8. [Multimodal cognitive scaffolding pre-admission programme](../research/multimodal-cognitive-scaffolding-programme.md)
+   and [evidence review](../research/multimodal-cognitive-scaffolding-pre-admission-review.md)
+   for a separate pre-admission reading path. This path has no decision or
+   track authority.
+9. [PROVENANCE.md](../PROVENANCE.md) and
    [docs/evidence-and-review.md](evidence-and-review.md) for sources and
    evidence review.
-9. [OPEN_RESEARCH.md](../OPEN_RESEARCH.md) and
+10. [OPEN_RESEARCH.md](../OPEN_RESEARCH.md) and
    [CONTRIBUTING.md](../CONTRIBUTING.md) for participation.
 
 ## Relationship boundaries
