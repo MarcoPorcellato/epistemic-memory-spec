@@ -9,8 +9,10 @@ registration, task suite, benchmark, implementation, runtime, schema, or
 evaluation authorisation. No task instances, model outcomes, evaluation
 outputs, or experimental results have been accessed for this draft.
 
-The proposed protocol is bound to current source commit
-`973f2ada3d4918d2f4ce1e71149972728356c278` and is governed by:
+The proposed protocol was drafted against the historical Phase 0 evidence
+anchor `973f2ada3d4918d2f4ce1e71149972728356c278`. Before any freeze, task
+generation, or integration, it must be revalidated and rebound to the
+then-current `main` revision. It is governed by:
 
 - [Decision 0004](../docs/decisions/0004-incubating-strategic-agent-learning.md);
 - [Open research agenda](../OPEN_RESEARCH.md), Track 14;

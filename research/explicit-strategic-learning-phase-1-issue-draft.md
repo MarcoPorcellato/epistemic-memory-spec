@@ -1,7 +1,8 @@
-# UNPUBLISHED DRAFT — Track 14 Phase 1: review bounded CSP preregistration proposal
+# Issue record — Track 14 Phase 1: review bounded CSP preregistration proposal
 
-**Status:** This issue draft is not published. Do not publish it without
-separate explicit authorisation.
+**Status:** Published as [issue #15](https://github.com/MarcoPorcellato/epistemic-memory-spec/issues/15).
+This file preserves the proposed issue text; publication does not freeze the
+protocol or authorise task generation, model execution, or evaluation.
 
 ## Review request
 
