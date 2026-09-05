@@ -1,6 +1,6 @@
 # Open research agenda
 
-This agenda records fourteen research tracks for a research draft.
+This agenda records fifteen research tracks for a research draft.
 
 Completion of any track adds research evidence only. It does not create a
 standard, protocol, compatibility obligation, certification, or authority over
@@ -109,3 +109,25 @@ applicable; negative and non-interpretable results; and independent review or
 replication. Experimental outcomes must remain distinct from policy-derived
 assessments. This track is governed by [Decision 0004](docs/decisions/0004-incubating-strategic-agent-learning.md) and does not authorise a schema,
 runtime, Plumber change, or external standard claim.
+
+## 15. Multimodal cognitive scaffolding incubation
+**Question:** Can an explicitly specified transformation of frozen task
+information into a visual, spatial, auditory, temporal, or affective
+representation make a separately testable contribution to a preregistered
+task metric under semantic and fidelity controls and matched exposure budgets,
+and does that question remain distinct from prompting, retrieval, tool use,
+procedures, renderer effects, model capability, and Track 14's candidate
+strategic operator construct?
+**Required evidence:** A terminology, prior-art, and construct-separability
+review; frozen canonical task information and source-exposure boundaries; a
+named representation treatment and matched prompt, retrieval, tool, procedure,
+renderer, capability, and exposure controls; semantic, relational, source,
+numerical, contradiction, and temporal fidelity audits where applicable; a
+declared learning regime, model state, budgets, primary estimand, uncertainty
+method, failure states, and negative or non-interpretable outcomes; and
+independent protocol and result review. Human-learning traditions and
+historical frameworks may supply hypotheses only. This track is governed by
+[Decision 0005](docs/decisions/0005-incubating-multimodal-cognitive-scaffolding.md).
+Acceptance for incubation is a portfolio decision, not evidence of a distinct
+construct or benefit, and authorises no schema, runtime, benchmark, model run,
+new repository, Matryca Plumber change, or external standard claim.
