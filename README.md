@@ -60,6 +60,9 @@ The working hypothesis is:
 - [Open research](OPEN_RESEARCH.md) — agenda and evidence gates.
 - [Accelerated Agent Learning](research/accelerated-agent-learning.md) —
   non-normative strategic-learning research track.
+- [Multimodal cognitive scaffolding pre-admission programme](research/multimodal-cognitive-scaffolding-programme.md)
+  and [evidence review](research/multimodal-cognitive-scaffolding-pre-admission-review.md)
+  — non-normative pre-admission research with no decision or track authority.
 
 ## Start here
 

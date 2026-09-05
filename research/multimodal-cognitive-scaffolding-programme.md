@@ -42,7 +42,7 @@ novel, useful, safe, aligned, performant, or admitted.
 | Contribution route | Issue before pull request; sources and evidence boundaries required | [`CONTRIBUTING.md`](../CONTRIBUTING.md). |
 | Existing strategic-learning boundary | Decision 0004; epistemic core unchanged | [`Decision 0004`](../docs/decisions/0004-incubating-strategic-agent-learning.md). |
 | Parallel work | Track 14 Phase 1 remains isolated in PR #16 | [PR #16](https://github.com/MarcoPorcellato/epistemic-memory-spec/pull/16), inspected on 2026-09-05. |
-| Current milestone | Pre-admission design approved; canonical programme in delivery | Maintainer approval recorded on 2026-09-05. |
+| Current milestone | Evidence-backed pre-admission review committed; GitHub scoping issue open; navigation and historical-state repair in delivery | Review commit `7b791ef91e3fc028e9dcad4a6b1809e570130b7a`; [issue #17](https://github.com/MarcoPorcellato/epistemic-memory-spec/issues/17), verified open on 2026-09-05. |
 
 Re-verify drift-prone Git and GitHub anchors before every external mutation.
 Do not merge or rebase this work through the Track 14 Phase 1 branch.
@@ -230,7 +230,9 @@ tasks or run models:
 | --- | --- | --- | --- |
 | Track 14 Phase 0 | Terminology and prior-art review for Explicit Strategic Learning | Main commit `973f2ada3d4918d2f4ce1e71149972728356c278`, issue #13, and PR #14 | Does not admit multimodal scaffolding or authorise experiments. |
 | Track 14 Phase 1 proposal | Bounded CSP preregistration draft | PR #16 head `14473bdae9f1766d549b66c8ecee7010c8bac4ed`, inspected open on 2026-09-05 | Separate workstream; no task generation or evaluation authority. |
-| Multimodal pre-admission design | Maintainer approved the pre-admission architecture | Approval recorded on 2026-09-05 | Written programme still requires review and publication. |
+| Multimodal pre-admission design | Maintainer approved the pre-admission architecture | Approval recorded on 2026-09-05 | Separate track admission remains unproven. |
+| Multimodal pre-admission review | Evidence-backed review committed | Commit `7b791ef91e3fc028e9dcad4a6b1809e570130b7a` | Review does not admit a track or authorise an experiment. |
+| Multimodal scoping issue | Public coordination record open | [issue #17](https://github.com/MarcoPorcellato/epistemic-memory-spec/issues/17), verified open on 2026-09-05 | An issue records coordination, not acceptance or evidence. |
 
 ## Ordered delivery milestones
 
@@ -493,24 +495,24 @@ worktree path alone is not a durable checkpoint.
 ## Completion checklist
 
 - [ ] The canonical programme is committed and maintainer-reviewed.
-- [ ] The pre-admission review distinguishes source facts, synthesis,
+- [x] The pre-admission review distinguishes source facts, synthesis,
       hypotheses, and unknowns.
-- [ ] Every proposed term has a collapse or falsification condition.
-- [ ] Primary-source coverage spans every declared research family.
-- [ ] Human-learning evidence is quarantined as hypothesis material.
-- [ ] Scaffold, generation procedure, treatment, selection policy, strategic
+- [x] Every proposed term has a collapse or falsification condition.
+- [x] Primary-source coverage spans every declared research family.
+- [x] Human-learning evidence is quarantined as hypothesis material.
+- [x] Scaffold, generation procedure, treatment, selection policy, strategic
       operator, learning regime, alignment, and workspace claims remain
       distinct.
-- [ ] Semantic, relational, source, numerical, temporal, exposure, and modality
+- [x] Semantic, relational, source, numerical, temporal, exposure, and modality
       confounds are explicit.
 - [ ] Future phases have entry, exit, failure, and separate-authorisation gates.
-- [ ] Track 14 Phase 1 and PR #16 remain untouched.
-- [ ] No Track 15, Decision 0005, schema, runtime, benchmark, model execution,
+- [x] Track 14 Phase 1 and PR #16 remain untouched.
+- [x] No numbered multimodal track, schema, runtime, benchmark, model execution,
       training, or Plumber change is introduced.
-- [ ] The GitHub scoping issue is published and read back.
-- [ ] Stable repository navigation points to the packet without creating a new
+- [x] The GitHub scoping issue is published and read back.
+- [x] Stable repository navigation points to the packet without creating a new
       status authority.
-- [ ] The stale Phase 0 issue-draft status is corrected against issue #13.
+- [x] The stale Phase 0 issue-draft status is corrected against issue #13.
 - [ ] Independent scientific and governance reviews are terminal.
 - [ ] Deterministic Markdown, link, scope, privacy, and diff checks pass on the
       exact pull-request head.

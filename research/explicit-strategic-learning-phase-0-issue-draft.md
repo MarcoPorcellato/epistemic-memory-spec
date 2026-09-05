@@ -1,7 +1,6 @@
-# UNPUBLISHED DRAFT — Track 14 Phase 0: review terminology and prior art for Explicit Strategic Learning
+# Issue-source — Track 14 Phase 0: review terminology and prior art for Explicit Strategic Learning
 
-**Status:** Draft only. Do not publish this issue without separate explicit
-authorisation.
+**Historical status:** Published as [issue #13](https://github.com/MarcoPorcellato/epistemic-memory-spec/issues/13), now closed. This document preserves the issue-source purpose and acceptance criteria; it is not a new publication request.
 
 ## Purpose
 
