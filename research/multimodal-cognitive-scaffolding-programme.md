@@ -4,10 +4,12 @@
 
 **Proposed pre-admission execution specification, last verified 2026-09-05.**
 
-This document is the canonical execution contract for deciding whether
-multimodal cognitive scaffolding warrants a separately governed research
-track. Conversation history, issue descriptions, and local notes are supporting
-context, not competing plans.
+This document is canonical only for this multimodal cognitive scaffolding
+pre-admission packet. It is subordinate to [STATUS.md](../STATUS.md),
+[VERSIONING.md](../VERSIONING.md), [GOVERNANCE.md](../GOVERNANCE.md),
+[CONTRIBUTING.md](../CONTRIBUTING.md), and numbered decisions. Conversation
+history, issue descriptions, and local notes are supporting context, not
+competing plans.
 
 The programme is non-normative. It authorises documentation and review only.
 It does not authorise an experiment, benchmark, schema, runtime, model update,
@@ -41,8 +43,8 @@ novel, useful, safe, aligned, performant, or admitted.
 | Governing maturity | Research Draft — pre-standard | [`STATUS.md`](../STATUS.md) and [`VERSIONING.md`](../VERSIONING.md). |
 | Contribution route | Issue before pull request; sources and evidence boundaries required | [`CONTRIBUTING.md`](../CONTRIBUTING.md). |
 | Existing strategic-learning boundary | Decision 0004; epistemic core unchanged | [`Decision 0004`](../docs/decisions/0004-incubating-strategic-agent-learning.md). |
-| Parallel work | Track 14 Phase 1 remains isolated in PR #16 | [PR #16](https://github.com/MarcoPorcellato/epistemic-memory-spec/pull/16), inspected on 2026-09-05. |
-| Current milestone | Evidence-backed pre-admission review committed; GitHub scoping issue open; navigation and historical-state repair in delivery | Review commit `7b791ef91e3fc028e9dcad4a6b1809e570130b7a`; [issue #17](https://github.com/MarcoPorcellato/epistemic-memory-spec/issues/17), verified open on 2026-09-05. |
+| Parallel work | Track 14 Phase 1 was observed isolated in PR #16 | [PR #16](https://github.com/MarcoPorcellato/epistemic-memory-spec/pull/16), observed open on 2026-09-05; revalidate before relying on its state. |
+| Current milestone | Evidence-backed pre-admission review has a historical content anchor; navigation and historical-state repair are in delivery | Review commit `7b791ef91e3fc028e9dcad4a6b1809e570130b7a` is not current branch `HEAD`; [issue #17](https://github.com/MarcoPorcellato/epistemic-memory-spec/issues/17) was observed open on 2026-09-05 and requires revalidation. |
 
 Re-verify drift-prone Git and GitHub anchors before every external mutation.
 Do not merge or rebase this work through the Track 14 Phase 1 branch.
@@ -230,9 +232,9 @@ tasks or run models:
 | --- | --- | --- | --- |
 | Track 14 Phase 0 | Terminology and prior-art review for Explicit Strategic Learning | Main commit `973f2ada3d4918d2f4ce1e71149972728356c278`, issue #13, and PR #14 | Does not admit multimodal scaffolding or authorise experiments. |
 | Track 14 Phase 1 proposal | Bounded CSP preregistration draft | PR #16 head `14473bdae9f1766d549b66c8ecee7010c8bac4ed`, inspected open on 2026-09-05 | Separate workstream; no task generation or evaluation authority. |
-| Multimodal pre-admission design | Maintainer approved the pre-admission architecture | Approval recorded on 2026-09-05 | Separate track admission remains unproven. |
+| Multimodal pre-admission programme | Programme committed | Commit `6b033ea26185801ba69035081ff84119ee152cf9` | A committed programme is not maintainer acceptance or separate-track admission. |
 | Multimodal pre-admission review | Evidence-backed review committed | Commit `7b791ef91e3fc028e9dcad4a6b1809e570130b7a` | Review does not admit a track or authorise an experiment. |
-| Multimodal scoping issue | Public coordination record open | [issue #17](https://github.com/MarcoPorcellato/epistemic-memory-spec/issues/17), verified open on 2026-09-05 | An issue records coordination, not acceptance or evidence. |
+| Multimodal scoping issue | Public coordination record | [issue #17](https://github.com/MarcoPorcellato/epistemic-memory-spec/issues/17), observed open on 2026-09-05; revalidate before relying on its state | An issue records coordination, not acceptance or evidence. |
 
 ## Ordered delivery milestones
 
@@ -245,7 +247,8 @@ tasks or run models:
 
 **Dependencies**
 
-- Maintainer approval of the pre-admission architecture.
+- Current governing documents and a committed programme revision. Neither is
+  evidence of maintainer acceptance or separate-track approval.
 
 **Exit evidence**
 
@@ -273,7 +276,7 @@ tasks or run models:
 
 **Dependencies**
 
-- M1 maintainer review.
+- M1 programme revision and governing-document review.
 
 **Exit evidence**
 
@@ -301,7 +304,7 @@ tasks or run models:
 
 **Dependencies**
 
-- M1 maintainer review; issue-before-PR rule in `CONTRIBUTING.md`.
+- M1 programme revision; issue-before-PR rule in `CONTRIBUTING.md`.
 
 **Exit evidence**
 
