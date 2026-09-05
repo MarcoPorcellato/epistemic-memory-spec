@@ -44,7 +44,7 @@ novel, useful, safe, aligned, performant, or admitted.
 | Contribution route | Issue before pull request; sources and evidence boundaries required | [`CONTRIBUTING.md`](../CONTRIBUTING.md). |
 | Existing strategic-learning boundary | Decision 0004; epistemic core unchanged | [`Decision 0004`](../docs/decisions/0004-incubating-strategic-agent-learning.md). |
 | Parallel work | Track 14 Phase 1 was observed isolated in PR #16 | [PR #16](https://github.com/MarcoPorcellato/epistemic-memory-spec/pull/16), observed open on 2026-09-05; revalidate before relying on its state. |
-| Current milestone | Evidence-backed pre-admission review has a historical content anchor; navigation and historical-state repair are in delivery | Review commit `7b791ef91e3fc028e9dcad4a6b1809e570130b7a` is not current branch `HEAD`; [issue #17](https://github.com/MarcoPorcellato/epistemic-memory-spec/issues/17) was observed open on 2026-09-05 and requires revalidation. |
+| Current milestone | Terminal documentation delivery checkpoint recorded; later research gates remain unauthorised. | GitHub reported PR #18 merged and issue [#17](https://github.com/MarcoPorcellato/epistemic-memory-spec/issues/17) CLOSED/COMPLETED at 2026-09-05 11:25 UTC. PR #18 base was `973f2ada3d4918d2f4ce1e71149972728356c278`; reviewed local, remote, and PR heads matched `4b29649cc1701754de0d8f7fdb717030c4c2014b`; squash merge and `origin/main` are `1b95cff06428aabfecf4fb2bc38f8fc80a45d87e`. Exact-head `git diff --check` was clean across five Markdown files. GitHub checks were absent, not green CI. Scientific, governance, and ledger reviews were terminal. |
 
 Re-verify drift-prone Git and GitHub anchors before every external mutation.
 Do not merge or rebase this work through the Track 14 Phase 1 branch.
@@ -237,6 +237,7 @@ tasks or run models:
 | Scientific review | Terminal scientific review recorded | Correction commit `52a59ab6addfeaa9d2b3adc52da24965f6f22398` | This correction record does not admit a track, runtime, or implementation. |
 | Governance review | Terminal governance review recorded | Correction commit `506a97e5db15593add039230434ab472ebbcd4d0` | This correction record does not establish acceptance, merge, or a final anchor. |
 | Multimodal scoping issue | Public coordination record | [issue #17](https://github.com/MarcoPorcellato/epistemic-memory-spec/issues/17), observed open on 2026-09-05; revalidate before relying on its state | An issue records coordination, not acceptance or evidence. |
+| Documentation delivery checkpoint | PR #18 squash-merged to `origin/main` | Base `973f2ada3d4918d2f4ce1e71149972728356c278`; reviewed local, remote, and PR heads `4b29649cc1701754de0d8f7fdb717030c4c2014b`; squash merge `1b95cff06428aabfecf4fb2bc38f8fc80a45d87e`; GitHub reported merge and issue #17 CLOSED/COMPLETED at 2026-09-05 11:25 UTC; exact-head `git diff --check` clean across five Markdown files; GitHub checks absent, not green CI | This dated delivery observation does not make a future checkpoint merge an anchor, admit a track, or authorise any later research gate. |
 
 ## Ordered delivery milestones
 
@@ -519,11 +520,10 @@ worktree path alone is not a durable checkpoint.
       status authority.
 - [x] The stale Phase 0 issue-draft status is corrected against issue #13.
 - [x] Independent scientific and governance reviews are terminal.
-- [ ] Deterministic Markdown, link, scope, privacy, and diff checks pass on the
+- [x] Deterministic Markdown, link, scope, privacy, and diff checks pass on the
       exact pull-request head.
-- [ ] The documentation pull request is merged and verified on `origin/main`.
-- [ ] The evolution ledger records exact final GitHub and Git anchors.
+- [x] The documentation pull request is merged and verified on `origin/main`.
+- [x] The evolution ledger records exact final GitHub and Git anchors.
 
-Completion remains unproven until every item has authoritative current
-evidence. The result may still be deferral, collapse, or rejection of the
-research direction.
+This completed checklist records documentation delivery only. The result may
+still be deferral, collapse, or rejection of the research direction.
