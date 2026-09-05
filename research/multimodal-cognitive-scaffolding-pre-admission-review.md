@@ -188,8 +188,8 @@ Selection policy is separate and is not required for either term.
 
 The proposal's visual-graph and latent-audio-visual citations support specific
 research directions, not universal benefit. Its J-space material supports a
-model-specific, high-bar interpretability question, not an image/audio
-workspace claim. Its human mnemonic, musical, affective, Trivium, Quadrivium,
+model-specific research direction, not an image/audio workspace claim. Its
+human mnemonic, musical, affective, Trivium, Quadrivium,
 Suggestopedia, TRIZ, and OTSM material remains quarantined as hypothesis
 sources.
 
