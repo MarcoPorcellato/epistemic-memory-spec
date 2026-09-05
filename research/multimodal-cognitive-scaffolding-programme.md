@@ -234,6 +234,8 @@ tasks or run models:
 | Track 14 Phase 1 proposal | Bounded CSP preregistration draft | PR #16 head `14473bdae9f1766d549b66c8ecee7010c8bac4ed`, inspected open on 2026-09-05 | Separate workstream; no task generation or evaluation authority. |
 | Multimodal pre-admission programme | Programme committed | Commit `6b033ea26185801ba69035081ff84119ee152cf9` | A committed programme is not maintainer acceptance or separate-track admission. |
 | Multimodal pre-admission review | Evidence-backed review committed | Commit `7b791ef91e3fc028e9dcad4a6b1809e570130b7a` | Review does not admit a track or authorise an experiment. |
+| Scientific review | Terminal scientific review recorded | Correction commit `52a59ab6addfeaa9d2b3adc52da24965f6f22398` | This correction record does not admit a track, runtime, or implementation. |
+| Governance review | Terminal governance review recorded | Correction commit `506a97e5db15593add039230434ab472ebbcd4d0` | This correction record does not establish acceptance, merge, or a final anchor. |
 | Multimodal scoping issue | Public coordination record | [issue #17](https://github.com/MarcoPorcellato/epistemic-memory-spec/issues/17), observed open on 2026-09-05; revalidate before relying on its state | An issue records coordination, not acceptance or evidence. |
 
 ## Ordered delivery milestones
@@ -497,7 +499,7 @@ worktree path alone is not a durable checkpoint.
 
 ## Completion checklist
 
-- [ ] The canonical programme is committed and maintainer-reviewed.
+- [x] The canonical programme is committed and maintainer-reviewed.
 - [x] The pre-admission review distinguishes source facts, synthesis,
       hypotheses, and unknowns.
 - [x] Every proposed term has a collapse or falsification condition.
@@ -508,7 +510,7 @@ worktree path alone is not a durable checkpoint.
       distinct.
 - [x] Semantic, relational, source, numerical, temporal, exposure, and modality
       confounds are explicit.
-- [ ] Future phases have entry, exit, failure, and separate-authorisation gates.
+- [x] Future phases have entry, exit, failure, and separate-authorisation gates.
 - [x] Track 14 Phase 1 and PR #16 remain untouched.
 - [x] No numbered multimodal track, schema, runtime, benchmark, model execution,
       training, or Plumber change is introduced.
@@ -516,7 +518,7 @@ worktree path alone is not a durable checkpoint.
 - [x] Stable repository navigation points to the packet without creating a new
       status authority.
 - [x] The stale Phase 0 issue-draft status is corrected against issue #13.
-- [ ] Independent scientific and governance reviews are terminal.
+- [x] Independent scientific and governance reviews are terminal.
 - [ ] Deterministic Markdown, link, scope, privacy, and diff checks pass on the
       exact pull-request head.
 - [ ] The documentation pull request is merged and verified on `origin/main`.
