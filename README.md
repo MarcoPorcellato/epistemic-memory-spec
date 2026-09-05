@@ -1,5 +1,29 @@
 # Epistemic Memory Spec
 
+> **Orientation only.** This non-normative research map is not a runtime
+> architecture, evidence of efficacy, or authority to begin a later gate.
+
+```mermaid
+flowchart TB
+    R["Epistemic Memory Spec<br/>Research Draft - pre-standard"]
+    R --> C["Epistemic core"]
+    C --> S["Canonical source remains authoritative"]
+    S --> E["Provenance-bound evidence"]
+    E --> A["Named policy-derived assessment"]
+    A --> B["Assessment is not truth"]
+
+    R --> Q["Non-normative research portfolio"]
+    Q --> D4["Decision 0004"]
+    D4 --> T14["Track 14<br/>Explicit Strategic Learning<br/>incubated"]
+    T14 -. separate authorization .-> P1["Phase 1 proposal<br/>not frozen"]
+
+    Q --> D5["Decision 0005"]
+    D5 --> T15["Track 15<br/>Multimodal Cognitive Scaffolding<br/>accepted for incubation"]
+    T15 -. separate authorization .-> P0["Next gate<br/>Dedicated Track 15 Phase 0<br/>not yet authorised"]
+
+    M["Matryca Plumber<br/>research antecedent only"] -. no current change .-> C
+```
+
 ## Research draft, not a standard
 
 This repository records a public research direction for provenance-bound,
@@ -53,6 +77,8 @@ The working hypothesis is:
   — proposed policy-plug-in boundary for assessment and revision research.
 - [Decision 0004](docs/decisions/0004-incubating-strategic-agent-learning.md)
   — incubated boundary for research on explicit strategic learning.
+- [Decision 0005](docs/decisions/0005-incubating-multimodal-cognitive-scaffolding.md)
+  — accepted-for-incubation boundary for multimodal cognitive scaffolding.
 - [Provenance](PROVENANCE.md) — public antecedents and exact source anchors.
 - [Citation metadata](CITATION.cff) — how to cite this research record.
 - [Governance](GOVERNANCE.md) — maintainer model and decision boundaries.
@@ -62,7 +88,8 @@ The working hypothesis is:
   non-normative strategic-learning research track.
 - [Multimodal cognitive scaffolding pre-admission programme](research/multimodal-cognitive-scaffolding-programme.md)
   and [evidence review](research/multimodal-cognitive-scaffolding-pre-admission-review.md)
-  — non-normative pre-admission research with no decision or track authority.
+  — historical pre-admission evidence for the non-normative Track 15
+  incubation governed by Decision 0005.
 
 ## Start here
 
