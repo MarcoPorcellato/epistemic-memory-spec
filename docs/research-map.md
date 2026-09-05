@@ -27,10 +27,12 @@ status, governance, or versioned decisions.
 7. [Decision 0004](decisions/0004-incubating-strategic-agent-learning.md)
    and [Accelerated Agent Learning](../research/accelerated-agent-learning.md)
    for the incubated strategic-learning research boundary.
-8. [Multimodal cognitive scaffolding pre-admission programme](../research/multimodal-cognitive-scaffolding-programme.md)
-   and [evidence review](../research/multimodal-cognitive-scaffolding-pre-admission-review.md)
+8. [Multimodal cognitive scaffolding pre-admission programme](../research/multimodal-cognitive-scaffolding-programme.md),
+   [evidence review](../research/multimodal-cognitive-scaffolding-pre-admission-review.md),
+   and [maintainer-reviewed DEFER memorandum](../research/multimodal-cognitive-scaffolding-admission-review.md)
    for a separate pre-admission reading path. This path has no decision or
-   track authority.
+   track authority; the memorandum records a maintainer-reviewed DEFER
+   disposition, not a numbered decision or track admission.
 9. [PROVENANCE.md](../PROVENANCE.md) and
    [docs/evidence-and-review.md](evidence-and-review.md) for sources and
    evidence review.
