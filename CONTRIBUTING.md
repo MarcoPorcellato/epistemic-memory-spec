@@ -11,6 +11,16 @@ Pull requests should explain the research question addressed, cite affected sect
 
 Accepted contributions remain non-normative until the versioning gates in [VERSIONING.md](VERSIONING.md) are met. Maintainer acceptance records research value; it does not create a requirement or conformance obligation.
 
+## Language of maintained documentation
+
+Use international English for new or materially revised maintained prose,
+including issues, pull requests, decisions, research documents, and
+navigation. Keep historical quotations, source titles, proper names, URLs,
+hashes, licence texts, and third-party material in their original language
+where translation would change attribution or meaning. If a translation is
+needed for review, provide it as a labelled explanation without replacing the
+attributed source.
+
 ## Maintainer review
 
 The maintainer may request stronger sources, narrower claims, synthetic fixtures, or additional independent review. Issues and pull requests are public records; do not disclose material that requires private handling.

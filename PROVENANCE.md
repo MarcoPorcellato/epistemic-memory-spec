@@ -7,6 +7,10 @@ publication record for this repository. They do not establish legal priority,
 copyright ownership beyond applicable law, patent rights, exclusivity, or
 independent validation.
 
+For the maintainer's named human authorship and personal-contribution
+statement, with its licence and third-party attribution limits, see
+[AUTHORSHIP.md](AUTHORSHIP.md).
+
 ## Immediate source anchors
 
 The initial research draft synthesises, without transferring runtime

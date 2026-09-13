@@ -1,8 +1,11 @@
 # Governance
 
-Marco Porcellato is the maintainer of this research repository. Decisions are
-evidence-led and publicly documented. Issues are the route for concrete
-proposals, counterexamples, prior art, and implementation feedback.
+Marco Porcellato is the sole named human author, originator, and maintainer of
+his original contributions to this research repository. His personal
+contribution statement, and its licence and third-party attribution limits,
+are in [AUTHORSHIP.md](AUTHORSHIP.md). Decisions are evidence-led and publicly
+documented. Issues are the route for concrete proposals, counterexamples, prior
+art, and implementation feedback.
 
 This is a lightweight, maintainer-led research model. It has no consensus
 process, voting process, standards body, conformance programme, certification,

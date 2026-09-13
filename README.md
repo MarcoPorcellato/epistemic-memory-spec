@@ -34,6 +34,13 @@ an interoperability promise. No implementation may claim compatibility with
 this work unless a future, explicitly versioned specification defines the
 claim and its tests.
 
+The future aspiration is a candidate technical specification for
+human-governed agentic memory, if and only if the advancement gates in
+[STATUS.md](STATUS.md) are met. That aspiration is to support human–AI
+collaboration while preserving human decisions and canonical-source authority;
+it is not a measured benefit. This repository is not now a candidate standard
+or a technical specification.
+
 ## Why this exists
 
 Retrieval can find relevant material. It does not, by itself, say whether a
@@ -81,6 +88,8 @@ The working hypothesis is:
   — accepted-for-incubation boundary for multimodal cognitive scaffolding.
 - [Provenance](PROVENANCE.md) — public antecedents and exact source anchors.
 - [Citation metadata](CITATION.cff) — how to cite this research record.
+- [Authorship statement](AUTHORSHIP.md) — named human authorship, maintenance,
+  licence, and third-party attribution boundaries.
 - [Governance](GOVERNANCE.md) — maintainer model and decision boundaries.
 - [Versioning](VERSIONING.md) — draft and research maturity terms.
 - [Open research](OPEN_RESEARCH.md) — agenda and evidence gates.
@@ -94,6 +103,8 @@ The working hypothesis is:
 ## Start here
 
 - [Start Here](START_HERE.md) — choose a researcher, implementer, or reviewer path.
+- [Documentation index](docs/index.md) — maintained reading routes and local
+  documentation boundary.
 - [Research map](docs/research-map.md) — document authority and reading order.
 - [Evidence and review](docs/evidence-and-review.md) — evidence ladder and review boundary.
 - [Latest research snapshot](https://github.com/MarcoPorcellato/epistemic-memory-spec/releases/latest)
@@ -104,6 +115,8 @@ The working hypothesis is:
 ## Participate
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) and [OPEN_RESEARCH.md](OPEN_RESEARCH.md).
+Maintained documentation uses international English; the contribution guide
+defines exceptions for historical sources and attribution.
 Use the [issue chooser](https://github.com/MarcoPorcellato/epistemic-memory-spec/issues/new/choose)
 for evidence-backed work. Use [Discussions](https://github.com/MarcoPorcellato/epistemic-memory-spec/discussions)
 for exploratory dialogue. Issues are for concrete evidence, counterexamples,
