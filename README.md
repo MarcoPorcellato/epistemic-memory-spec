@@ -99,6 +99,12 @@ The working hypothesis is:
   and [evidence review](research/multimodal-cognitive-scaffolding-pre-admission-review.md)
   — historical pre-admission evidence for the non-normative Track 15
   incubation governed by Decision 0005.
+- [Epistemic replay research programme](research/replay-study-programme.md) — a
+  non-normative documentary research plan; it claims no original experimental
+  results and discusses externally reported findings with attribution.
+- [Epistemic Replay Workbench dossier](research/epistemic-replay-workbench-dossier.md)
+  — a documentary design proposal with no original experimental results; all
+  G1–G7 gates remain unaccepted.
 
 ## Start here
 
