@@ -472,6 +472,12 @@ references do not establish current compatibility:
 - [Gas City issue #3005: Effect receipts and replay-or-fork](https://github.com/gastownhall/gascity/issues/3005).
 - [Gas City v1.4.2 release: Beads 1.3.0 compatibility](https://github.com/gastownhall/gascity/releases/tag/v1.4.2).
 
+A later [study of Metodo ORMA and ORMA Twin](replay-study-orma-twin.md)
+adds Francesco Paolo D’Amico’s practitioner work to the bibliography and
+compares elicited decision criteria with source-bound assessment. It does
+not establish ORMA’s replay or validation capabilities or amend this dossier’s
+proposed workbench.
+
 This source list supports only the bounded descriptions above. It is not a
 complete prior-art review. The companion
 [documentary review record](epistemic-replay-workbench-documentary-review.md)
