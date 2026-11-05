@@ -52,14 +52,16 @@ than treating a short synthesis as a complete reading of every source:
 
 | Evidence note | Bounded research responsibility | Use in the next decision |
 | --- | --- | --- |
+| [Metodo ORMA and ORMA Twin](replay-study-orma-twin.md) | D’Amico’s practitioner method and applied decision support, with a bibliography and reading limits. | Separate elicited criteria from inferred preferences, evidence, and authority. |
 | [Memory literature](replay-study-memory-literature.md) | Full-text access and methods of nearby memory papers; selected foundational work. | Identify overlap, assumptions, and candidate counterexamples; do not infer novelty. |
 | [Agent evaluation](replay-study-agent-evaluation.md) | Relevant official book, evaluation publications, and their evidence boundaries. | Separate search quality, task outcomes, artifact verification, acceptance, and cost. |
 | [`mem` contracts](replay-study-mem-contracts.md) | Static audit at the declared `mem` revision. | Separate temporal eligibility, trigger information, material admission, and scripted mechanics. |
 | [Provenance and recovery](replay-study-provenance-recovery.md) | Official provenance, storage, and durable-execution material. | Distinguish identity, integrity, retention, retries, and authority without selecting a backend. |
 | [Research methodology](replay-study-methodology.md) | Primary and official guidance on precommitment, precision, units, and reporting. | Make null, inconclusive, amended, and non-interpretable outcomes usable rather than relabelled as success. |
 
-Each note has a single Luna Max writer. The coordinator owns integration and
-scope reconciliation. Model-assisted reading is not an independent human
+The original follow-up notes each had a single Luna Max writer. The ORMA
+note integrates three independent Luna Max source searches. The coordinator
+owns integration and scope reconciliation. Model-assisted reading is not an independent human
 review. Sources unavailable in full remain explicit access gaps. The earlier
 [methodology study](mem-methodology-prior-art.md) retains its historical reading
 depth; these follow-up notes may close some gaps without rewriting that record.
