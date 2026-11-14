@@ -18,7 +18,7 @@ Read [STATUS.md](STATUS.md), [GOVERNANCE.md](GOVERNANCE.md), and
 [the research map](docs/research-map.md). Distinguish source observations from
 policy-derived assessments and permissions. A model review does not itself
 accept a gate. Links to `main` describe a changing research record; use the
-[versioned snapshot](https://github.com/MarcoPorcellato/epistemic-memory-spec/releases/tag/v0.0.0-research)
+[versioned snapshot](https://github.com/MarcoPorcellato/epistemic-memory-spec/releases/tag/v0.0.1-research)
 when citing that published state. Cite untagged research by its exact commit.
 Follow the applicable human authorisation.
 Record source revisions and information gaps. Interpret a remembered preference

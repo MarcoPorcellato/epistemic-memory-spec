@@ -35,7 +35,7 @@ or governance process for a standard.
 ## Research and release progress
 
 The published snapshot is
-[`v0.0.0-research`](https://github.com/MarcoPorcellato/epistemic-memory-spec/releases/tag/v0.0.0-research).
+[`v0.0.1-research`](https://github.com/MarcoPorcellato/epistemic-memory-spec/releases/tag/v0.0.1-research).
 Later merged research and locally prepared work are inventoried in the
 [next research snapshot study](docs/releases/next-research-snapshot.md).
 That study distinguishes the public October 2026 replay packet from later
