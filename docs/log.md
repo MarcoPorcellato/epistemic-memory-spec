@@ -3,10 +3,16 @@ type: Change Log
 title: Documentation log
 description: Separates immutable decision anchors from local editorial drafts.
 status: active
-last_verified: 2026-09-12
+last_verified: 2026-11-14
 ---
 
 # Documentation log
+
+## 2026-11-14 — Research navigation and citation maintenance
+
+Updated research navigation, agent-reading guidance, citation type, and the
+published snapshot link. Added a route to the next snapshot preparation record.
+These editorial changes do not accept research gates or publish a snapshot.
 
 ## 2026-09-12 — Editorial draft before commit
 

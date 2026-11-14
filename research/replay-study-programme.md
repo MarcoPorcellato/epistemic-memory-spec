@@ -22,6 +22,15 @@ remain **UNACCEPTED**. The [review record](epistemic-replay-workbench-documentar
 identifies which exact documentary versions received internal model review.
 A documentary PASS is not scientific replication or gate acceptance.
 
+## Later progress record
+
+The gate dispositions below describe the October 2026 public packet.
+The [next snapshot study](../docs/releases/next-research-snapshot.md#local-replay-progress-and-public-evidence)
+records subsequently inspected local owner decisions and the next execution
+boundary. Reuse those accepted local bindings when preparing later work.
+The metadata defects discussed under the historical source snapshot are
+corrected by the maintenance changes described in that study.
+
 ## Evidence-to-design decision ledger
 
 The following are research implications, not selected algorithms or accepted

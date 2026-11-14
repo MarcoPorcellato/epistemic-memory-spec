@@ -3,7 +3,7 @@ type: Documentation Index
 title: Epistemic Memory Spec documentation
 description: Voluntary local documentation navigation for the research draft.
 status: active
-last_verified: 2026-09-12
+last_verified: 2026-11-14
 ---
 
 # Documentation index
@@ -22,4 +22,5 @@ clean-snapshot audit or external registration.
 - [Reference index](reference/index.md)
 - [Decision index](decisions/index.md)
 - [Root research record](../README.md)
+- [Next research snapshot preparation](releases/next-research-snapshot.md)
 - [English and Knowledge alignment plan](english-and-knowledge-alignment-plan.md)

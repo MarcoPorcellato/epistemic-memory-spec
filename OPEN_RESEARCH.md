@@ -6,6 +6,10 @@ Completion of any track adds research evidence only. It does not create a
 standard, protocol, compatibility obligation, certification, or authority over
 an underlying source of record.
 
+The [next snapshot study](docs/releases/next-research-snapshot.md) maps
+the merged research, open proposals and later local replay checkpoints to
+the next release decision.
+
 ## 1. Prior-art and terminology review
 **Question:** Which existing work covers provenance-bound epistemic memory, source-of-record boundaries, and human governance, and where do terms differ?
 **Required evidence:** Citable primary sources, stable links or identifiers, quoted definitions with context, and a comparison that distinguishes analogy from technical overlap.

@@ -25,6 +25,14 @@ verified primary sources, reading depth, and report-only candidates. The
 earlier documentary PASS applies only to its recorded dossier digest, not
 automatically to this expanded version.
 
+## Later progress record
+
+The gate dispositions in this dossier describe its October 2026 public
+packet. The [next snapshot study](../docs/releases/next-research-snapshot.md#local-replay-progress-and-public-evidence)
+records subsequently inspected local owner decisions and their evidence-access
+limits. Read that distinction before using the historical gate table as
+current laboratory status.
+
 ## Executive decision
 
 Keep the idea at documentary-preparation stage. The next useful research

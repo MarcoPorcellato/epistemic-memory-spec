@@ -3,7 +3,7 @@ type: Documentation Guide
 title: Documentation guide
 description: Reading paths and boundaries for the Epistemic Memory Spec research draft.
 status: active
-last_verified: 2026-09-12
+last_verified: 2026-11-14
 ---
 
 # Documentation guide
@@ -17,7 +17,8 @@ For a review path, read the [research map](research-map.md),
 [evidence and review](evidence-and-review.md), [decision index](decisions/index.md),
 and [open research agenda](../OPEN_RESEARCH.md). The [reference index](reference/index.md)
 collects maintained links without converting their cited material into local
-evidence or authority.
+evidence or authority. It includes the replay programme, Track 14 research,
+Track 15 incubation, and [next snapshot preparation](releases/next-research-snapshot.md).
 
 This guide is maintained locally in English. It is not a source profile or a
 claim that the repository has been admitted to, audited by, or synchronised

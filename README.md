@@ -93,8 +93,10 @@ The working hypothesis is:
 - [Governance](GOVERNANCE.md) — maintainer model and decision boundaries.
 - [Versioning](VERSIONING.md) — draft and research maturity terms.
 - [Open research](OPEN_RESEARCH.md) — agenda and evidence gates.
-- [Accelerated Agent Learning](research/accelerated-agent-learning.md) —
-  non-normative strategic-learning research track.
+- [Accelerated Agent Learning](research/accelerated-agent-learning.md), its
+  [Phase 0 review](research/explicit-strategic-learning-phase-0-review.md),
+  and [next phases plan](research/explicit-strategic-learning-next-phases-plan.md)
+  — non-normative Track 14 research and separately gated proposals.
 - [Multimodal cognitive scaffolding pre-admission programme](research/multimodal-cognitive-scaffolding-programme.md)
   and [evidence review](research/multimodal-cognitive-scaffolding-pre-admission-review.md)
   — historical pre-admission evidence for the non-normative Track 15
@@ -103,8 +105,9 @@ The working hypothesis is:
   non-normative documentary research plan; it claims no original experimental
   results and discusses externally reported findings with attribution.
 - [Epistemic Replay Workbench dossier](research/epistemic-replay-workbench-dossier.md)
-  — a documentary design proposal with no original experimental results; all
-  G1–G7 gates remain unaccepted.
+  — the October 2026 documentary proposal and its recorded gate status.
+  Later local checkpoints are summarised in the
+  [next snapshot study](docs/releases/next-research-snapshot.md#local-replay-progress-and-public-evidence).
 
 ## Start here
 
@@ -113,7 +116,9 @@ The working hypothesis is:
   documentation boundary.
 - [Research map](docs/research-map.md) — document authority and reading order.
 - [Evidence and review](docs/evidence-and-review.md) — evidence ladder and review boundary.
-- [Latest research snapshot](https://github.com/MarcoPorcellato/epistemic-memory-spec/releases/latest)
+- [Published research snapshot v0.0.0-research](https://github.com/MarcoPorcellato/epistemic-memory-spec/releases/tag/v0.0.0-research)
+- [Next research snapshot preparation](docs/releases/next-research-snapshot.md) —
+  preparation record; publication requires a separate decision.
 - [Discussion #7](https://github.com/MarcoPorcellato/epistemic-memory-spec/discussions/7)
 - [Issue chooser](https://github.com/MarcoPorcellato/epistemic-memory-spec/issues/new/choose)
 - [Citation metadata](CITATION.cff) · [License map](LICENSE.md)
