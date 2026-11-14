@@ -3,7 +3,7 @@ type: Decision Index
 title: Decision index
 description: Navigation for the repository's maintained research decisions.
 status: active
-last_verified: 2026-09-12
+last_verified: 2026-11-14
 ---
 
 # Decision index

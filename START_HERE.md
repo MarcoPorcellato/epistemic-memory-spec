@@ -12,6 +12,20 @@ Read [the draft](spec/epistemic-memory-research-draft-v0.md), then
 [PROVENANCE.md](PROVENANCE.md). Submit primary sources or terminology
 corrections through the issue chooser.
 
+## Agent-reading path
+
+Read [STATUS.md](STATUS.md), [GOVERNANCE.md](GOVERNANCE.md), and
+[the research map](docs/research-map.md). Distinguish source observations from
+policy-derived assessments and permissions. A model review does not itself
+accept a gate. Links to `main` describe a changing research record; use the
+[versioned snapshot](https://github.com/MarcoPorcellato/epistemic-memory-spec/releases/tag/v0.0.0-research)
+when citing that published state. Cite untagged research by its exact commit.
+Follow the applicable human authorisation.
+Record source revisions and information gaps. Interpret a remembered preference
+or derived profile with its context and later corrections. Use the
+[next snapshot study](docs/releases/next-research-snapshot.md) to distinguish
+public research from subsequently prepared local work.
+
 ## Future implementer path
 
 Read [CHARTER.md](CHARTER.md), [VERSIONING.md](VERSIONING.md), and

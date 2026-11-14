@@ -32,6 +32,16 @@ or governance process for a standard.
   claim; or
 - a promise that the research will become a standard.
 
+## Research and release progress
+
+The published snapshot is
+[`v0.0.0-research`](https://github.com/MarcoPorcellato/epistemic-memory-spec/releases/tag/v0.0.0-research).
+Later merged research and locally prepared work are inventoried in the
+[next research snapshot study](docs/releases/next-research-snapshot.md).
+That study distinguishes the public October 2026 replay packet from later
+owner-approved local G1–G4 checkpoints and the unresolved G5 execution gate.
+Its local decision summary has the evidence-access limits recorded there.
+
 ## Advancement gates
 
 A future revision may become a candidate technical specification only after it

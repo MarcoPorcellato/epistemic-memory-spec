@@ -6,5 +6,5 @@ repository-code: "https://github.com/MarcoPorcellato/epistemic-memory-spec"
 authors:
   - family-names: "Porcellato"
     given-names: "Marco"
-type: "research"
+type: "software"
 abstract: "A public research record for provenance-bound, human-governed epistemic memory."

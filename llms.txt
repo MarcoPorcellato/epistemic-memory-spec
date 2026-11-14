@@ -13,6 +13,16 @@
 4. [Evidence and Review](https://github.com/MarcoPorcellato/epistemic-memory-spec/blob/main/docs/evidence-and-review.md) defines evidence classes
    and review boundaries.
 
+## Research and snapshot routes
+
+- [Replay programme](https://github.com/MarcoPorcellato/epistemic-memory-spec/blob/main/research/replay-study-programme.md) and [Workbench dossier](https://github.com/MarcoPorcellato/epistemic-memory-spec/blob/main/research/epistemic-replay-workbench-dossier.md) record the October 2026 documentary packet. Later local owner decisions and their evidence-access limits are summarised in the next snapshot study.
+- [Track 14 Phase 0 review](https://github.com/MarcoPorcellato/epistemic-memory-spec/blob/main/research/explicit-strategic-learning-phase-0-review.md) and [next phases plan](https://github.com/MarcoPorcellato/epistemic-memory-spec/blob/main/research/explicit-strategic-learning-next-phases-plan.md) do not authorise later phases.
+- [Track 15 decision](https://github.com/MarcoPorcellato/epistemic-memory-spec/blob/main/docs/decisions/0005-incubating-multimodal-cognitive-scaffolding.md) records bounded incubation.
+- [Published snapshot v0.0.0-research](https://github.com/MarcoPorcellato/epistemic-memory-spec/releases/tag/v0.0.0-research) is a versioned publication. Links to `main` describe a changing record. [Next snapshot preparation](https://github.com/MarcoPorcellato/epistemic-memory-spec/blob/main/docs/releases/next-research-snapshot.md) is not publication.
+
+Cite untagged research by its exact commit. Distinguish source observations, policy-derived assessments, and permissions.
+A model review does not itself accept a gate; apply [Governance](https://github.com/MarcoPorcellato/epistemic-memory-spec/blob/main/GOVERNANCE.md) and the applicable human decision.
+
 ## Participation
 
 Read [Start Here](https://github.com/MarcoPorcellato/epistemic-memory-spec/blob/main/START_HERE.md), [Contributing](https://github.com/MarcoPorcellato/epistemic-memory-spec/blob/main/CONTRIBUTING.md), and

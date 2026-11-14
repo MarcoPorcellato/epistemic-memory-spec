@@ -26,7 +26,10 @@ status, governance, or versioned decisions.
    for the proposed assessment-policy and revision-research boundary.
 7. [Decision 0004](decisions/0004-incubating-strategic-agent-learning.md)
    and [Accelerated Agent Learning](../research/accelerated-agent-learning.md)
-   for the incubated strategic-learning research boundary.
+   for the incubated strategic-learning research boundary. The
+   [Phase 0 review](../research/explicit-strategic-learning-phase-0-review.md)
+   and [next phases plan](../research/explicit-strategic-learning-next-phases-plan.md)
+   record research and proposals, not authorisation of later phases.
 8. [Decision 0005](decisions/0005-incubating-multimodal-cognitive-scaffolding.md)
    for the accepted-for-incubation boundary of Track 15, followed by the
    [multimodal cognitive scaffolding pre-admission programme](../research/multimodal-cognitive-scaffolding-programme.md),
@@ -41,6 +44,12 @@ status, governance, or versioned decisions.
    evidence review.
 10. [OPEN_RESEARCH.md](../OPEN_RESEARCH.md) and
    [CONTRIBUTING.md](../CONTRIBUTING.md) for participation.
+11. [Replay research programme](../research/replay-study-programme.md) and
+   [Workbench dossier](../research/epistemic-replay-workbench-dossier.md) for
+   documentary research and its October 2026 gate dispositions. Later local
+   checkpoints have a separate status summary in the snapshot study below.
+12. [Next research snapshot preparation](releases/next-research-snapshot.md)
+   for the publication preparation record.
 
 ## Relationship boundaries
 
