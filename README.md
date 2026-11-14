@@ -116,7 +116,7 @@ The working hypothesis is:
   documentation boundary.
 - [Research map](docs/research-map.md) — document authority and reading order.
 - [Evidence and review](docs/evidence-and-review.md) — evidence ladder and review boundary.
-- [Published research snapshot v0.0.0-research](https://github.com/MarcoPorcellato/epistemic-memory-spec/releases/tag/v0.0.0-research)
+- [Published research snapshot v0.0.1-research](https://github.com/MarcoPorcellato/epistemic-memory-spec/releases/tag/v0.0.1-research)
 - [Next research snapshot preparation](docs/releases/next-research-snapshot.md) —
   preparation record; publication requires a separate decision.
 - [Discussion #7](https://github.com/MarcoPorcellato/epistemic-memory-spec/discussions/7)
